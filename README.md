@@ -23,7 +23,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishesh123&show_icons=true&locale=en" alt="vishesh123" /></p>
 
 <p><img align="center" src="https://github.com/Vishes123/Vishesh-Khare/blob/main/Screenshot%202024-04-07%20105115.png" alt="vishesh123" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishesh123&" alt="vishesh123" /></p>
+<p><img align="center" src="https://github.com/Vishes123/Vishesh-Khare/blob/main/Screenshot%202024-04-07%20105136.png" alt="vishesh123" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishesh123&" alt="vishesh123" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishesh123&" alt="vishesh123" /></p>
 
